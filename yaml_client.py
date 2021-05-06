@@ -1,7 +1,7 @@
 import socket
 
 SERVER_HOST = 'localhost'
-SERVER_PORT = 8006
+SERVER_PORT = 8008
 BUFFER_SIZE = 1024 * 1000
 
 server = socket.socket()
